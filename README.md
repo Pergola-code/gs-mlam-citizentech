@@ -3,6 +3,8 @@
 **Global Solution — Desafio CitizenTech | Disciplina MLAM**
 Coleta, organização e análise estatística de dados reais em Python.
 
+Repositório: https://github.com/Pergola-code/gs-mlam-citizentech
+
 ## Integrante
 
 | Nome completo | RM |
@@ -93,8 +95,8 @@ Requisito: Python 3.10 ou superior.
 
 ```bash
 # 1. Clonar o repositório e entrar na pasta
-git clone <link-do-repositorio>
-cd <pasta-do-repositorio>
+git clone https://github.com/Pergola-code/gs-mlam-citizentech.git
+cd gs-mlam-citizentech
 
 # 2. Instalar as dependências
 pip install -r requirements.txt

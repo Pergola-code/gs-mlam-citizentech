@@ -1,0 +1,17 @@
+# Análises (notebook 02 e script 01)
+pandas>=2.1
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.13
+jupyter
+nbconvert
+ipykernel
+
+# Relatório em PDF (script 03)
+reportlab>=4.0
+
+# Coleta da base original (script 00, opcional)
+pyreadr>=0.5
